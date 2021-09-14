@@ -1,0 +1,554 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/tony/Documents
+	Notes
+2
+d/home/tony/Documents/Notes
+	Networks
+1
+d/home/tony/Documents/Notes/Networks
+	Notes9.pdf
+4
+d/home/tony
+	Downloads
+21
+d/home/tony/Downloads
+	Win10_2004_English_x64.iso
+1
+d/home/tony
+	Downloads
+19
+d/home/tony/Downloads
+	Knob_Internal_Shell.gcode
+2
+d/home/tony
+	Downloads
+21
+d/home/tony/Downloads
+	knob.stl
+8
+d/home/tony
+	.config
+4
+d/home/tony/.config
+	xinitrc
+46
+d/home/tony
+	Downloads
+22
+d/home/tony/Downloads
+	SVN.pdf
+8
+d/home/tony
+	Downloads
+22
+d/home/tony/Downloads
+	HW4TonyN.pdf
+4
+
+# Right window history (oldest to newest):
+D/home/tony
+	.git
+5
+D/home/tony/.git
+	branches
+1
+D/home/tony/.git/branches
+	..
+0
+D/home/tony/.git
+	modules
+5
+D/home/tony/.git/modules
+	..
+0
+D/home/tony/.git
+	HEAD
+8
+D/home/tony
+	.zprofile
+26
+D/home
+	tony
+1
+D/home/tony
+	.steam
+14
+D/home/tony/.steam
+	..
+0
+D/home/tony
+	.vim
+18
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/tony/.local/share/vifm/Trash/000_Interal Shell 2.gcode
+""/home/tony/.local/share/vifm/Trash/000_Interal Shell 3.gcode
+""/home/tony/.local/share/vifm/Trash/000_Interal Shell.gcode
+""/home/tony/.local/share/vifm/Trash/000_Interal Shell.obj
+""/home/tony/.local/share/vifm/Trash/000_Internal Gear.gcode
+""/home/tony/.local/share/vifm/Trash/000_random.txt
+""/home/tony/.local/share/vifm/Trash/000_svn-commit.2.tmp
+""/home/tony/.local/share/vifm/Trash/000_svn-commit.3.tmp
+""/home/tony/.local/share/vifm/Trash/000_svn-commit.tmp
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/tony/.local/share/vifm/Trash/000_mutt-wizard
+	/home/tony/mutt-wizard
+t/home/tony/.local/share/vifm/Trash/000_forest.jpg
+	/home/tony/Downloads/forest.jpg
+t/home/tony/.local/share/vifm/Trash/000_rocl.jpg
+	/home/tony/Pictures/rocl.jpg
+t/home/tony/.local/share/vifm/Trash/000_air.jpg
+	/home/tony/Pictures/air.jpg
+t/home/tony/.local/share/vifm/Trash/001_forest.jpg
+	/home/tony/Pictures/forest.jpg
+t/home/tony/.local/share/vifm/Trash/000_.bash_logout
+	/home/tony/.bash_logout
+t/home/tony/.local/share/vifm/Trash/000_.bash_profile
+	/home/tony/.bash_profile
+t/home/tony/.local/share/vifm/Trash/000_.bashrc
+	/home/tony/.bashrc
+t/home/tony/.local/share/vifm/Trash/000_BraveSoftware
+	/home/tony/.config/BraveSoftware
+t/home/tony/.local/share/vifm/Trash/000_lf
+	/home/tony/.config/lf
+t/home/tony/.local/share/vifm/Trash/000_ranger
+	/home/tony/.config/ranger
+t/home/tony/.local/share/vifm/Trash/000_tmux
+	/home/tony/.config/tmux
+t/home/tony/.local/share/vifm/Trash/000_wal
+	/home/tony/.config/wal
+t/home/tony/.local/share/vifm/Trash/000_Xresources
+	/home/tony/.config/Xresources
+t/home/tony/.local/share/vifm/Trash/000_FoggyRode.jpg
+	/home/tony/Pictures/FoggyRode.jpg
+t/home/tony/.local/share/vifm/Trash/000_NewYorker.jpg
+	/home/tony/Pictures/NewYorker.jpg
+t/home/tony/.local/share/vifm/Trash/000_2
+	/home/tony/2
+t/home/tony/.local/share/vifm/Trash/000_docked
+	/home/tony/.config/autorandr/docked
+t/home/tony/.local/share/vifm/Trash/000_mobile
+	/home/tony/.config/autorandr/mobile
+t/home/tony/.local/share/vifm/Trash/000_autorandr
+	/home/tony/.config/autorandr
+t/home/tony/.local/share/vifm/Trash/000_pulse
+	/home/tony/.config/pulse
+t/home/tony/.local/share/vifm/Trash/001_BraveSoftware
+	/home/tony/.cache/BraveSoftware
+t/home/tony/.local/share/vifm/Trash/000_.mozilla
+	/home/tony/.mozilla
+t/home/tony/.local/share/vifm/Trash/000_.dotnet
+	/home/tony/.dotnet
+t/home/tony/.local/share/vifm/Trash/000_.nuget
+	/home/tony/.nuget
+t/home/tony/.local/share/vifm/Trash/000_.npm
+	/home/tony/.npm
+t/home/tony/.local/share/vifm/Trash/000_.pki
+	/home/tony/.pki
+t/home/tony/.local/share/vifm/Trash/000_.dbus
+	/home/tony/.dbus
+t/home/tony/.local/share/vifm/Trash/000_mozilla
+	/home/tony/.config/mozilla
+t/home/tony/.local/share/vifm/Trash/000_icedtea-web
+	/home/tony/.config/icedtea-web
+t/home/tony/.local/share/vifm/Trash/000_powershell
+	/home/tony/.config/powershell
+t/home/tony/.local/share/vifm/Trash/000_chromium
+	/home/tony/.config/chromium
+t/home/tony/.local/share/vifm/Trash/000_discord
+	/home/tony/.config/discord
+t/home/tony/.local/share/vifm/Trash/000_s-tui
+	/home/tony/.config/s-tui
+t/home/tony/.local/share/vifm/Trash/001_chromium
+	/home/tony/.cache/chromium
+t/home/tony/.local/share/vifm/Trash/000_emoji
+	/home/tony/.config/emoji
+t/home/tony/.local/share/vifm/Trash/000_.Prison Architect
+	/home/tony/.Prison Architect
+t/home/tony/.local/share/vifm/Trash/000_.paradoxlauncher
+	/home/tony/.paradoxlauncher
+t/home/tony/.local/share/vifm/Trash/000_.steam
+	/home/tony/.steam
+t/home/tony/.local/share/vifm/Trash/000_Paradox Interactive
+	/home/tony/.local/share/Paradox Interactive
+t/home/tony/.local/share/vifm/Trash/000_Steam
+	/home/tony/.local/share/Steam
+t/home/tony/.local/share/vifm/Trash/001_lf
+	/home/tony/.local/share/lf
+t/home/tony/.local/share/vifm/Trash/000_vulkan
+	/home/tony/.local/share/vulkan
+t/home/tony/.local/share/vifm/Trash/000_.pulse-cookie
+	/home/tony/.pulse-cookie
+t/home/tony/.local/share/vifm/Trash/000_.steampath
+	/home/tony/.steampath
+t/home/tony/.local/share/vifm/Trash/000_.steampid
+	/home/tony/.steampid
+t/home/tony/.local/share/vifm/Trash/000_cef_user_data
+	/home/tony/.config/cef_user_data
+t/home/tony/.local/share/vifm/Trash/000_inkscape
+	/home/tony/.config/inkscape
+t/home/tony/.local/share/vifm/Trash/000_.java
+	/home/tony/.java
+t/home/tony/.local/share/vifm/Trash/000_Old Firefox Data
+	/home/tony/Old Firefox Data
+t/home/tony/.local/share/vifm/Trash/000_screencast-200725-1454-43.mp4
+	/home/tony/screencast-200725-1454-43.mp4
+t/home/tony/.local/share/vifm/Trash/000_screencast-200725-1455-09.mp4
+	/home/tony/screencast-200725-1455-09.mp4
+t/home/tony/.local/share/vifm/Trash/000_audio-200725-1500-30.flac
+	/home/tony/audio-200725-1500-30.flac
+t/home/tony/.local/share/vifm/Trash/000_pic-full-200727-1958-47.png
+	/home/tony/pic-full-200727-1958-47.png
+t/home/tony/.local/share/vifm/Trash/000_Win10_2004_English_x64.iso
+	/home/tony/Downloads/Win10_2004_English_x64.iso
+t/home/tony/.local/share/vifm/Trash/000_pic-full-200729-1838-33.png
+	/home/tony/pic-full-200729-1838-33.png
+t/home/tony/.local/share/vifm/Trash/000_steam.desktop
+	/home/tony/steam.desktop
+t/home/tony/.local/share/vifm/Trash/000_siji.sh
+	/home/tony/siji.sh
+t/home/tony/.local/share/vifm/Trash/000_NuGet
+	/home/tony/.local/share/NuGet
+t/home/tony/.local/share/vifm/Trash/000_unity3d
+	/home/tony/.config/unity3d
+t/home/tony/.local/share/vifm/Trash/000_playlists
+	/home/tony/.config/ncmpcpp/playlists
+t/home/tony/.local/share/vifm/Trash/000_bashtop
+	/home/tony/.config/bashtop
+t/home/tony/.local/share/vifm/Trash/000_pic-full-200803-2150-43.png
+	/home/tony/pic-full-200803-2150-43.png
+t/home/tony/.local/share/vifm/Trash/000_assets
+	/home/tony/Code/Godot/assets
+t/home/tony/.local/share/vifm/Trash/000_kritadisplayrc
+	/home/tony/.config/kritadisplayrc
+t/home/tony/.local/share/vifm/Trash/000_kritarc
+	/home/tony/.config/kritarc
+t/home/tony/.local/share/vifm/Trash/000_configstore
+	/home/tony/.config/configstore
+t/home/tony/.local/share/vifm/Trash/000_screencast-200810-2110-42.mp4
+	/home/tony/screencast-200810-2110-42.mp4
+t/home/tony/.local/share/vifm/Trash/000_pic-full-200810-2247-40.png
+	/home/tony/pic-full-200810-2247-40.png
+t/home/tony/.local/share/vifm/Trash/000_.viminfo
+	/home/tony/.viminfo
+t/home/tony/.local/share/vifm/Trash/000_Offer_Letter.pdf
+	/home/tony/Offer_Letter.pdf
+t/home/tony/.local/share/vifm/Trash/000_pic-selected-200811-1952-03.png
+	/home/tony/pic-selected-200811-1952-03.png
+t/home/tony/.local/share/vifm/Trash/000_gentoo
+	/home/tony/gentoo
+t/home/tony/.local/share/vifm/Trash/000_caja
+	/home/tony/.config/caja
+t/home/tony/.local/share/vifm/Trash/000_Arduino
+	/home/tony/Arduino
+t/home/tony/.local/share/vifm/Trash/000_.arduino15
+	/home/tony/.arduino15
+t/home/tony/.local/share/vifm/Trash/000_.oracle_jre_usage
+	/home/tony/.oracle_jre_usage
+t/home/tony/.local/share/vifm/Trash/001_.arduino15
+	/home/tony/.config/.arduino15
+t/home/tony/.local/share/vifm/Trash/000_.gnome
+	/home/tony/.gnome
+t/home/tony/.local/share/vifm/Trash/000_Desktop
+	/home/tony/Desktop
+t/home/tony/.local/share/vifm/Trash/000_light-tmux
+	/home/tony/light-tmux
+t/home/tony/.local/share/vifm/Trash/000_pic-selected-200818-1353-26.png
+	/home/tony/pic-selected-200818-1353-26.png
+t/home/tony/.local/share/vifm/Trash/000_pic-selected-200819-0814-51.png
+	/home/tony/pic-selected-200819-0814-51.png
+t/home/tony/.local/share/vifm/Trash/000_.minecraft
+	/home/tony/.minecraft
+t/home/tony/.local/share/vifm/Trash/000_pic-window-200830-1412-24.png
+	/home/tony/pic-window-200830-1412-24.png
+t/home/tony/.local/share/vifm/Trash/000_pic-window-200830-1258-52.png
+	/home/tony/pic-window-200830-1258-52.png
+t/home/tony/.local/share/vifm/Trash/000_pic-window-200830-1344-38.png
+	/home/tony/pic-window-200830-1344-38.png
+t/home/tony/.local/share/vifm/Trash/000_pic-window-200830-1413-22.png
+	/home/tony/pic-window-200830-1413-22.png
+t/home/tony/.local/share/vifm/Trash/000_pic-full-200831-1608-02.png
+	/home/tony/pic-full-200831-1608-02.png
+t/home/tony/.local/share/vifm/Trash/000_pic-full-200831-1720-55.png
+	/home/tony/pic-full-200831-1720-55.png
+t/home/tony/.local/share/vifm/Trash/000_pic-selected-200831-1605-26.png
+	/home/tony/pic-selected-200831-1605-26.png
+t/home/tony/.local/share/vifm/Trash/000_pic-selected-200831-1723-17.png
+	/home/tony/pic-selected-200831-1723-17.png
+t/home/tony/.local/share/vifm/Trash/000_pic-window-200831-1511-14.png
+	/home/tony/pic-window-200831-1511-14.png
+t/home/tony/.local/share/vifm/Trash/000_pic-window-200831-1555-58.png
+	/home/tony/pic-window-200831-1555-58.png
+t/home/tony/.local/share/vifm/Trash/000_pic-window-200831-1720-10.png
+	/home/tony/pic-window-200831-1720-10.png
+t/home/tony/.local/share/vifm/Trash/000_pic-window-200831-1940-09.png
+	/home/tony/pic-window-200831-1940-09.png
+t/home/tony/.local/share/vifm/Trash/000_Microsoft
+	/home/tony/.config/Microsoft
+t/home/tony/.local/share/vifm/Trash/000_autostart
+	/home/tony/.config/autostart
+t/home/tony/.local/share/vifm/Trash/000_pic-full-200901-2351-55.png
+	/home/tony/pic-full-200901-2351-55.png
+t/home/tony/.local/share/vifm/Trash/000_bleachbit
+	/home/tony/.config/bleachbit
+t/home/tony/.local/share/vifm/Trash/000_BLEDevice.h
+	/home/tony/BLEDevice.h
+t/home/tony/.local/share/vifm/Trash/000_.jssc
+	/home/tony/.jssc
+t/home/tony/.local/share/vifm/Trash/000_pic-full-200904-2240-41.png
+	/home/tony/pic-full-200904-2240-41.png
+t/home/tony/.local/share/vifm/Trash/000_screencast-200906-1637-12.mp4
+	/home/tony/screencast-200906-1637-12.mp4
+t/home/tony/.local/share/vifm/Trash/000_DarkArduinoTheme
+	/home/tony/DarkArduinoTheme
+t/home/tony/.local/share/vifm/Trash/000_Unknown Organization
+	/home/tony/.config/Unknown Organization
+t/home/tony/.local/share/vifm/Trash/000_discordcanary
+	/home/tony/.config/discordcanary
+t/home/tony/.local/share/vifm/Trash/000_files
+	/home/tony/files
+t/home/tony/.local/share/vifm/Trash/000_images
+	/home/tony/images
+t/home/tony/.local/share/vifm/Trash/000_Exam1TonyN.pdf
+	/home/tony/Exam1TonyN.pdf
+t/home/tony/.local/share/vifm/Trash/000_Herringbone_Gears_for_Robo3D_R1.zip
+	/home/tony/Herringbone_Gears_for_Robo3D_R1.zip
+t/home/tony/.local/share/vifm/Trash/000_LICENSE.txt
+	/home/tony/LICENSE.txt
+t/home/tony/.local/share/vifm/Trash/000_README.txt
+	/home/tony/README.txt
+t/home/tony/.local/share/vifm/Trash/000_SOURCES.txt
+	/home/tony/SOURCES.txt
+t/home/tony/.local/share/vifm/Trash/000_attribution_card.html
+	/home/tony/attribution_card.html
+t/home/tony/.local/share/vifm/Trash/000_pic-full-200923-0745-39.png
+	/home/tony/pic-full-200923-0745-39.png
+t/home/tony/.local/share/vifm/Trash/000_pic-selected-200922-1926-42.png
+	/home/tony/pic-selected-200922-1926-42.png
+t/home/tony/.local/share/vifm/Trash/000_3d_print_cycloid_actuator_v2
+	/home/tony/Downloads/3d_print_cycloid_actuator_v2
+t/home/tony/.local/share/vifm/Trash/000_HerringBone_gear_pair
+	/home/tony/Downloads/HerringBone_gear_pair
+t/home/tony/.local/share/vifm/Trash/000_Parametric_Herringbone_Gear_Set_for_Huxley_extruder_30DoC
+	/home/tony/Downloads/Parametric_Herringbone_Gear_Set_for_Huxley_extruder_30DoC
+t/home/tony/.local/share/vifm/Trash/000_arduino-1.8.12
+	/home/tony/Downloads/arduino-1.8.12
+t/home/tony/.local/share/vifm/Trash/000_2eb6c05f004091d549e708521c8e471f.jpg
+	/home/tony/Downloads/2eb6c05f004091d549e708521c8e471f.jpg
+t/home/tony/.local/share/vifm/Trash/000_2nd Semester Statement of Work.pdf
+	/home/tony/Downloads/2nd Semester Statement of Work.pdf
+t/home/tony/.local/share/vifm/Trash/000_3d_print_cycloid_actuator_v2_190920.zip
+	/home/tony/Downloads/3d_print_cycloid_actuator_v2_190920.zip
+t/home/tony/.local/share/vifm/Trash/000_Base Knob.gcode
+	/home/tony/Downloads/Base Knob.gcode
+t/home/tony/.local/share/vifm/Trash/000_Base Knob.stl
+	/home/tony/Downloads/Base Knob.stl
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_Exam_01.docx
+	/home/tony/Downloads/CS594Fall20_Exam_01.docx
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_HW_02(1).docx
+	/home/tony/Downloads/CS594Fall20_HW_02(1).docx
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_HW_02_Key.pdf
+	/home/tony/Downloads/CS594Fall20_HW_02_Key.pdf
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_Lab_Presentation_Schedule_New.xlsx
+	/home/tony/Downloads/CS594Fall20_Lab_Presentation_Schedule_New.xlsx
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_Quiz_01.docx
+	/home/tony/Downloads/CS594Fall20_Quiz_01.docx
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_Quiz_01_Key.pdf
+	/home/tony/Downloads/CS594Fall20_Quiz_01_Key.pdf
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_Week02b_Lecture04_HW01.pptx
+	/home/tony/Downloads/CS594Fall20_Week02b_Lecture04_HW01.pptx
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_Week03a_Lecture05(1).pptx
+	/home/tony/Downloads/CS594Fall20_Week03a_Lecture05(1).pptx
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall2018_Exam_1a_Key.pdf
+	/home/tony/Downloads/CS594Fall2018_Exam_1a_Key.pdf
+t/home/tony/.local/share/vifm/Trash/000_CS594L20Fall_Lab_Lecture01_EASy68K.pptx
+	/home/tony/Downloads/CS594L20Fall_Lab_Lecture01_EASy68K.pptx
+t/home/tony/.local/share/vifm/Trash/000_Cookies.pdf
+	/home/tony/Downloads/Cookies.pdf
+t/home/tony/.local/share/vifm/Trash/000_EE595 Fall 2020 weekly minutes template.docx
+	/home/tony/Downloads/EE595 Fall 2020 weekly minutes template.docx
+t/home/tony/.local/share/vifm/Trash/000_Fischertechnik_stepper_motor_gear.zip
+	/home/tony/Downloads/Fischertechnik_stepper_motor_gear.zip
+t/home/tony/.local/share/vifm/Trash/000_HerringBone_gear_pair.zip
+	/home/tony/Downloads/HerringBone_gear_pair.zip
+t/home/tony/.local/share/vifm/Trash/000_IMG_20200901_162140.jpg
+	/home/tony/Downloads/IMG_20200901_162140.jpg
+t/home/tony/.local/share/vifm/Trash/000_Motor.gcode
+	/home/tony/Downloads/Motor.gcode
+t/home/tony/.local/share/vifm/Trash/000_Motor.stl
+	/home/tony/Downloads/Motor.stl
+t/home/tony/.local/share/vifm/Trash/000_Parametric_Herringbone_Gear_Set_for_Huxley_extruder_30DoC.zip
+	/home/tony/Downloads/Parametric_Herringbone_Gear_Set_for_Huxley_extruder_30DoC.zip
+t/home/tony/.local/share/vifm/Trash/000_Parametric_pulley_-_lots_of_tooth_profiles.zip
+	/home/tony/Downloads/Parametric_pulley_-_lots_of_tooth_profiles.zip
+t/home/tony/.local/share/vifm/Trash/000_Quiz1sheet.pdf
+	/home/tony/Downloads/Quiz1sheet.pdf
+t/home/tony/.local/share/vifm/Trash/000_Quiz_1_Study_Guide.docx
+	/home/tony/Downloads/Quiz_1_Study_Guide.docx
+t/home/tony/.local/share/vifm/Trash/000_Tony-Lab2.pdf
+	/home/tony/Downloads/Tony-Lab2.pdf
+t/home/tony/.local/share/vifm/Trash/000_Tony-Lab3.pdf
+	/home/tony/Downloads/Tony-Lab3.pdf
+t/home/tony/.local/share/vifm/Trash/000_TonyNQuiz1.pdf
+	/home/tony/Downloads/TonyNQuiz1.pdf
+t/home/tony/.local/share/vifm/Trash/000_TonyN_HW#1.pdf
+	/home/tony/Downloads/TonyN_HW#1.pdf
+t/home/tony/.local/share/vifm/Trash/000_TonyNguyen9-13.docx.pdf
+	/home/tony/Downloads/TonyNguyen9-13.docx.pdf
+t/home/tony/.local/share/vifm/Trash/000_TonyNguyenJournal9-20.docx.pdf
+	/home/tony/Downloads/TonyNguyenJournal9-20.docx.pdf
+t/home/tony/.local/share/vifm/Trash/000_TonyNguyen_9_16_Journal.docx.pdf
+	/home/tony/Downloads/TonyNguyen_9_16_Journal.docx.pdf
+t/home/tony/.local/share/vifm/Trash/000_Tony_HW2.PNG
+	/home/tony/Downloads/Tony_HW2.PNG
+t/home/tony/.local/share/vifm/Trash/000_Tony_HW2.pdf
+	/home/tony/Downloads/Tony_HW2.pdf
+t/home/tony/.local/share/vifm/Trash/000_VKCTtNnc_400x400.png
+	/home/tony/Downloads/VKCTtNnc_400x400.png
+t/home/tony/.local/share/vifm/Trash/000_arduino-1.8.12-linux64.tar.xz
+	/home/tony/Downloads/arduino-1.8.12-linux64.tar.xz
+t/home/tony/.local/share/vifm/Trash/000_images.png
+	/home/tony/Downloads/images.png
+t/home/tony/.local/share/vifm/Trash/000_istockphoto-1058418934-170667a.jpg
+	/home/tony/Downloads/istockphoto-1058418934-170667a.jpg
+t/home/tony/.local/share/vifm/Trash/000_nothing
+	/home/tony/Downloads/nothing
+t/home/tony/.local/share/vifm/Trash/000_quiz1.docx
+	/home/tony/Downloads/quiz1.docx
+t/home/tony/.local/share/vifm/Trash/000_reittec+polisher.zip
+	/home/tony/Downloads/reittec+polisher.zip
+t/home/tony/.local/share/vifm/Trash/000_cura
+	/home/tony/.config/cura
+t/home/tony/.local/share/vifm/Trash/000_matplotlib
+	/home/tony/.config/matplotlib
+t/home/tony/.local/share/vifm/Trash/000_menus
+	/home/tony/.config/menus
+t/home/tony/.local/share/vifm/Trash/000_teams
+	/home/tony/.config/teams
+t/home/tony/.local/share/vifm/Trash/000_tlpui
+	/home/tony/.config/tlpui
+t/home/tony/.local/share/vifm/Trash/000_QtProject.conf
+	/home/tony/.config/QtProject.conf
+t/home/tony/.local/share/vifm/Trash/000_Ender3
+	/home/tony/Downloads/Ender3
+t/home/tony/.local/share/vifm/Trash/001_files
+	/home/tony/Downloads/files
+t/home/tony/.local/share/vifm/Trash/001_images
+	/home/tony/Downloads/images
+t/home/tony/.local/share/vifm/Trash/000_+HTD+toothed+belt+wheel+ fine+resolution .zip
+	/home/tony/Downloads/+HTD+toothed+belt+wheel+ fine+resolution .zip
+t/home/tony/.local/share/vifm/Trash/000_2020___Ender_3_Filament_Guide.zip
+	/home/tony/Downloads/2020___Ender_3_Filament_Guide.zip
+t/home/tony/.local/share/vifm/Trash/000_Base Knob.obj
+	/home/tony/Downloads/Base Knob.obj
+t/home/tony/.local/share/vifm/Trash/000_Base Knob.zip
+	/home/tony/Downloads/Base Knob.zip
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_HW_03.docx
+	/home/tony/Downloads/CS594Fall20_HW_03.docx
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_Week05b_Lecture09_Exam01.pptx
+	/home/tony/Downloads/CS594Fall20_Week05b_Lecture09_Exam01.pptx
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_Week06a_Lecture10(1).pptx
+	/home/tony/Downloads/CS594Fall20_Week06a_Lecture10(1).pptx
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_Week06b_Lecture11_Eval.pptx
+	/home/tony/Downloads/CS594Fall20_Week06b_Lecture11_Eval.pptx
+t/home/tony/.local/share/vifm/Trash/000_CS594Fall20_Week07a_Lecture12(1).pptx
+	/home/tony/Downloads/CS594Fall20_Week07a_Lecture12(1).pptx
+t/home/tony/.local/share/vifm/Trash/000_Dell-SonicWALL-TZ-400-Quick-Start-Guide.pdf
+	/home/tony/Downloads/Dell-SonicWALL-TZ-400-Quick-Start-Guide.pdf
+t/home/tony/.local/share/vifm/Trash/000_End_Clip.gcode
+	/home/tony/Downloads/End_Clip.gcode
+t/home/tony/.local/share/vifm/Trash/000_Ender+3+Bed+Level.zip
+	/home/tony/Downloads/Ender+3+Bed+Level.zip
+t/home/tony/.local/share/vifm/Trash/000_Eng+_Forms.zip
+	/home/tony/Downloads/Eng+_Forms.zip
+t/home/tony/.local/share/vifm/Trash/000_Hercus_9A_lathe_100_127_transposing_gear_set_for_metric_threading.zip
+	/home/tony/Downloads/Hercus_9A_lathe_100_127_transposing_gear_set_for_metric_threading.zip
+t/home/tony/.local/share/vifm/Trash/000_IMG_20200929_200058.jpg
+	/home/tony/Downloads/IMG_20200929_200058.jpg
+t/home/tony/.local/share/vifm/Trash/000_Knob_Outer_Shell.gcode
+	/home/tony/Downloads/Knob_Outer_Shell.gcode
+t/home/tony/.local/share/vifm/Trash/001_LICENSE.txt
+	/home/tony/Downloads/LICENSE.txt
+t/home/tony/.local/share/vifm/Trash/000_MK3 PETG_Base Knob.gcode
+	/home/tony/Downloads/MK3 PETG_Base Knob.gcode
+t/home/tony/.local/share/vifm/Trash/000_Mighty Elzing.stl
+	/home/tony/Downloads/Mighty Elzing.stl
+t/home/tony/.local/share/vifm/Trash/000_Pretty PETG V3.ini
+	/home/tony/Downloads/Pretty PETG V3.ini
+t/home/tony/.local/share/vifm/Trash/000_PrusaSlicer_config_bundle.ini
+	/home/tony/Downloads/PrusaSlicer_config_bundle.ini
+t/home/tony/.local/share/vifm/Trash/001_README.txt
+	/home/tony/Downloads/README.txt
+t/home/tony/.local/share/vifm/Trash/000_Tony - Interview Reflection.pdf
+	/home/tony/Downloads/Tony - Interview Reflection.pdf
+t/home/tony/.local/share/vifm/Trash/000_Tony-lab4.pdf
+	/home/tony/Downloads/Tony-lab4.pdf
+t/home/tony/.local/share/vifm/Trash/000_TonyN_Journal_9-27.docx.pdf
+	/home/tony/Downloads/TonyN_Journal_9-27.docx.pdf
+t/home/tony/.local/share/vifm/Trash/000_Tony_HW_03.pdf
+	/home/tony/Downloads/Tony_HW_03.pdf
+t/home/tony/.local/share/vifm/Trash/001_attribution_card.html
+	/home/tony/Downloads/attribution_card.html
+t/home/tony/.local/share/vifm/Trash/000_bed_level.gcode
+	/home/tony/Downloads/bed_level.gcode
+t/home/tony/.local/share/vifm/Trash/000_belt.gcode
+	/home/tony/Downloads/belt.gcode
+t/home/tony/.local/share/vifm/Trash/000_gear.gcode
+	/home/tony/Downloads/gear.gcode
+t/home/tony/.local/share/vifm/Trash/000_gear.stl
+	/home/tony/Downloads/gear.stl
+t/home/tony/.local/share/vifm/Trash/000_guide.gcode
+	/home/tony/Downloads/guide.gcode
+t/home/tony/.local/share/vifm/Trash/000_Flexing+battery+holders+with+integrated+spring.zip
+	/home/tony/Downloads/Flexing+battery+holders+with+integrated+spring.zip
+t/home/tony/.local/share/vifm/Trash/000_CR123A_Holders__Charger.zip
+	/home/tony/Downloads/CR123A_Holders__Charger.zip
+t/home/tony/.local/share/vifm/Trash/001_SOURCES.txt
+	/home/tony/Downloads/SOURCES.txt
+t/home/tony/.local/share/vifm/Trash/000_gear.zip
+	/home/tony/Downloads/gear.zip
+t/home/tony/.local/share/vifm/Trash/000_Interal Shell 2.gcode
+	/home/tony/Interal Shell 2.gcode
+t/home/tony/.local/share/vifm/Trash/000_Interal Shell 3.gcode
+	/home/tony/Interal Shell 3.gcode
+t/home/tony/.local/share/vifm/Trash/000_Interal Shell.gcode
+	/home/tony/Interal Shell.gcode
+t/home/tony/.local/share/vifm/Trash/000_Interal Shell.obj
+	/home/tony/Interal Shell.obj
+t/home/tony/.local/share/vifm/Trash/000_Internal Gear.gcode
+	/home/tony/Internal Gear.gcode
+t/home/tony/.local/share/vifm/Trash/000_random.txt
+	/home/tony/random.txt
+t/home/tony/.local/share/vifm/Trash/000_svn-commit.2.tmp
+	/home/tony/svn-commit.2.tmp
+t/home/tony/.local/share/vifm/Trash/000_svn-commit.3.tmp
+	/home/tony/svn-commit.3.tmp
+t/home/tony/.local/share/vifm/Trash/000_svn-commit.tmp
+	/home/tony/svn-commit.tmp

@@ -1,0 +1,39 @@
+# vim: filetype=conf
+
+ncmpcpp_directory = "~/.config/ncmpcpp"
+lyrics_directory = "~/.local/share/lyrics"
+mpd_music_dir = "~/Music"
+message_delay_time = "1"
+visualizer_type = "spectrum"
+visualizer_look = "∙│"
+visualizer_color = magenta
+
+song_list_format = "{{%a  %t}|{%f}}{$R%l}"
+
+current_item_prefix = $(yellow)$b
+current_item_suffix = $/r$(end)$/b
+current_item_inactive_column_prefix = $(white)
+current_item_inactive_column_suffix = $/r$(end)
+playlist_display_mode = "classic"
+user_interface = classic
+
+now_playing_prefix = "$6"
+now_playing_suffix = "$9"
+
+progressbar_look = "─╼ "
+execute_on_song_change = notify-send "Now Playing" "$(mpc current)"
+
+media_library_primary_tag = album_artist
+media_library_albums_split_by_date = no
+startup_screen = "media_library"
+display_volume_level = no
+ignore_leading_the = yes
+external_editor = nvim
+use_console_editor = yes
+empty_tag_color = white
+main_window_color = white
+progressbar_elapsed_color = yellow:b
+
+header_visibility = "yes"
+statusbar_visibility = "no"
+titles_visibility = "yes"

@@ -1,0 +1,124 @@
+# quit/restart bspwm
+super + alt + {q,r}
+	{prompt 'Leave Xorg?' 'bspc quit',bspc wm -r}
+# close and kill
+super + {_,shift + }q
+	bspc node -{c,k}
+# Rotate nodes
+super + shift + space
+	bspc node @/ -R 90
+# set the window state
+super + {t,shift + t,s,f}
+	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+# focus the node in the given direction
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+# focus the next/previous desktop in the current monitor
+super + bracket{left,right}
+	bspc desktop -f {prev,next}.local
+# focus or send to the given desktop
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} '^{1-9,10}'
+# expand a window by moving one of its side outward
+super + alt + {h,j,k,l}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+# contract a window by moving one of its side inward
+super + alt + shift + {h,j,k,l}
+	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
+# move a floating window
+super + ctrl + {h,j,k,l}
+	bspc node -v {-20 0,0 20,0 -20,20 0}
+
+# Terminal applications
+super + Return
+	$TERMINAL
+super + r
+	$TERMINAL -e $FILE
+super + i
+	$TERMINAL -e htop
+super + d
+	dmenu_run
+super + e
+	$TERMINAL -e neomutt
+super + m
+	$TERMINAL -e ncmpcpp
+super + n
+	$TERMINAL -e newsboat
+super + {_,shift + }a
+	{dmenucalc,$TERMINAL -e pulsemixer}
+super + {_,shift + }c
+	{$TERMINAL -e calcurse -D ~/.config/calcurse,camtoggle}
+super + {_,shift + }w
+	{$BROWSER,$TERMINAL -e nmtui}
+
+# FN Bindings
+super + {_,shift + }g
+	{dmenumount,dmenuumount}
+super + shift + x
+	prompt "Shutdown computer?" "sudo shutdown -h now"
+super + shift + BackSpace
+	prompt "Reboot computer?" "sudo reboot"
+super + x
+	slock ; mpc pause; pauseallmpv
+XF86MonBrightness{Down,Up}
+	xbacklight {-dec 10,-inc 10}
+XF86Tools
+	$TERMINAL -e $EDITOR ~/.config/sxhkd/sxhkdrc
+XF86Search
+	dmenu_run
+XF86LaunchA
+
+XF86Explorer
+
+XF86Display
+	displayselect
+
+# Audiokeys
+XF86AudioMicMute
+	amixer set Capture toggle
+XF86AudioMute
+	pamixer -t
+XF86Audio{Raise,Lower}Volume
+	pamixer --allow-boost {-i 1,-d 1}
+
+# Take screenshot
+Print
+	maim pic-full-$(date '+%y%m%d-%H%M-%S').png
+# Pick screenshot type
+shift + Print
+	maimpick
+# Print: Record audio or video; Del: kill recording
+super + Print
+	dmenurecord
+# Kill recording
+super + Delete
+	dmenurecord kill
+# Clear audio
+super + alt + p
+	mpc clear
+# Pause/Play audio
+super + p
+	mpc toggle
+# Pause everything
+super + shift + p
+	mpc pause; pauseallmpv
+# Changes to next/previous tracks
+super + {comma,period}
+	mpc {prev,next}
+# Restart track
+super + shift + comma
+	mpc seek 0%
+# Seek foward in song
+super + {_,shift +} bracketright
+	mpc seek +{10,120}
+# Seek backward in song
+super + {_,shift +} bracketleft
+	mpc seek -{10,120}
+# Increase volume
+super {_,shift +} + equal
+	pamixer --allow-boost {-i 1,-i 10}
+# Decrease volume
+super {_,shift +} + minus
+	pamixer --allow-boost {-d 1,-d 10}
+super + shift + m
+	pamixer -t

@@ -1,0 +1,22 @@
+#!/bin/sh
+
+# Grab the answer
+answer=$(echo "$1" | bc -l | sed '/\./ s/\.\{0,1\}0\{1,\}$//')
+
+# Path to menu application
+menu=$(command -v dmenu)
+
+# Determine args to pass to dmenu
+while [[ $# -gt 0 && $1 != "--" ]]; do
+	shift
+done
+[[ $1 == "--" ]] && shift
+
+action=$(echo -e "Copy to clipboard\nClear" | $menu "$@" -p "= $answer")
+
+case $action in
+	"Clear") $0 "--dmenu=dmenu" "--" "$@" ;;
+	"Copy to clipboard") echo -n "$answer" | xclip -selection clipboard ;;
+	"") ;;
+	*) $0 "$answer $action" "--dmenu=$menu" "--" "$@" ;;
+esac

@@ -1,0 +1,9 @@
+#!/bin/sh
+
+pidof mbsync >/dev/null && exit
+
+eval "$(grep -h -- \
+    "^\s*\(export \)\?\(PASSWORD_STORE_DIR\|NOTMUCH_CONFIG\)=" \
+    "$HOME/.zprofile" 2>/dev/null)"
+
+mbsync -aq && notmuch new 2>/dev/null

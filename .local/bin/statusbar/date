@@ -1,0 +1,6 @@
+#!/bin/sh
+
+DATE=$(date "+%^a %d %I:%M")
+RED=$(tput setaf 1)
+
+echo "${RED}${DATE}"
